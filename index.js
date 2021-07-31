@@ -128,4 +128,4 @@ bot.on('message', message => {
 });
 console.log('Commands Loaded')
 //Anvil
-bot.login('ODcwNjQ4MDE5NjE4NTE3MDYz.YQP0Jw.hzWu3RoSu4f5CsMU1eggsgWj7WY')
+bot.login('')
