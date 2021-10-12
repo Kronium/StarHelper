@@ -10,7 +10,7 @@ module.exports = {
             .setDescription('Need help with my commands? Heres the info on what I can do!')
             .addFields(
                 {name: 'Manufacturer information', value: `The manufacturer information is quite simple. Do .anvil to get the information for anvil, .aegis for aegis etc.`},
-                {name: 'Specific Ship Info', value: `This command will give you information on a specific ship, To use it simply do .drake_caterpillar or the name of the ship you want to get info on!`},
+                {name: 'Specific Ship Info', value: `This command will give you information on a specific ship, To use it simply do .drake_caterpillar or the name of the ship you want to get info on! Its simple, instead of a space just put an _ like avenger_stalker.`},
 
             )
             .setFooter('Developed by Hades#2004')
